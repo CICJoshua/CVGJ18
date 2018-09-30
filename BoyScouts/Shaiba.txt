@@ -1,0 +1,9 @@
+En el inicio de los tiempos dos deidades se encuentran y luchan
+ por saber quién será el primero capaz de crear un universo.
+
+Batalla espacial tipo arcade de dos jugadores 
+en donde debes construir tu iniverso recolectando los elementos necesarios. 
+
+Ambos jugadores tienen la misma "receta" de elementos y gana el primero que logre juntarlos.
+
+Tu nave dispone de un rayo para atraer y empujar los elementos.
