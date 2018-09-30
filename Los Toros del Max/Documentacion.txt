@@ -1,0 +1,21 @@
+Equipo: Los Toros del Max
+Título: Gravity Pulse
+
+Historia: Eres un astronauta que, por diferentes situaciones,
+terminas en un lugar recondito del universo, no sabes dónde
+estás ni sabes exactamente cómo, y tu nave está destruida;
+Tu objetivo es regresar a casa, recolectando "combustible", 
+necesario para poder abrir un agujero de gusano, que te
+llevará cada vez más cerca a tu planeta de origen.
+
+Jugabilidad: Mueve al astronauta con las flechas <- -> y apuntar
+hacia la atmósfera de los planetas, ojo, no vayas a chocar de
+frente con los planetas o cualquier objeto que se te pueda
+cruzar en tu camino, y aprieta la barra espaciadora para lanzarte.
+
+Autores:
+Ochoa Monroy José Luis
+Ruíz Gonzalez Jonathan
+Liera Victor José
+Rico Raúl Sánchez
+Montealegre Terada Maxime Ishin
